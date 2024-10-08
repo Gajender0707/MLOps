@@ -1,2 +1,2 @@
-# MLops
+# MLOPs
 Learning about the mlops
