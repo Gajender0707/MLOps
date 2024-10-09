@@ -1,3 +1,10 @@
+"""this file is for the
+Structure the MLOps folder and files and  creating the directories and the files for the project.... by using just run this 
+file. and by just running the files whatver and how many folders and files you want to make..
+"""
+
+
+
 import os 
 from pathlib import Path
 
